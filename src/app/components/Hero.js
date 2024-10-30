@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="max-w-3xl mx-auto">
         {/* Profile Picture */}
         <Image
-          src="/profile.jpg"
+          src="/profile.jpg.jpg"
           alt="Syeda Areeba"
           width={128}
           height={128}
